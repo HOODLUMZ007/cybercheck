@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "CyberCheck History Pilot",
+  "version": "0.1.0",
+  "description": "Checks saved browser visits for published Optimizely incident hostnames on this device.",
+  "action": {
+    "default_title": "Open CyberCheck History Pilot"
+  },
+  "optional_permissions": [
+    "history"
+  ],
+  "content_security_policy": {
+    "extension_pages": "default-src 'none'; script-src 'self'; style-src 'self'; connect-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'"
+  },
+  "background": {
+    "service_worker": "extension/launch.js"
+  }
+}

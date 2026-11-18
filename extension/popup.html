@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CyberCheck History Pilot</title>
+  <link rel="stylesheet" href="popup.css">
+  <script type="module" src="popup.js"></script>
+</head>
+<body>
+  <h1>CyberCheck History Pilot</h1>
+  <p>Optimizely incident, November 16, 2026</p>
+  <p>Chrome grants access to saved browsing history. This check only searches from the first reported observation through the end of that UTC day. It displays matching hostnames and times on this device. History is never sent or stored by the extension.</p>
+  <button id="check" disabled>Check my history</button>
+  <button id="clear" type="button">Clear and revoke access</button>
+  <p id="status" role="status"></p>
+  <ul id="results"></ul>
+  <p>A match indicates a saved visit to a listed hostname. It does not establish whether malicious code ran. A missing match does not establish safety.</p>
+</body>
+</html>

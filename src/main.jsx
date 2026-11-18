@@ -3,6 +3,7 @@ import {createRoot} from 'react-dom/client';
 import {ShieldCheck,ShieldAlert,Search,ArrowRight,ArrowLeft,CheckCircle2,HelpCircle,LockKeyhole,Smartphone,Clock,ExternalLink,Download,RotateCcw,Info,ChevronDown,BookOpen,Check,Globe2,FileText} from 'lucide-react';
 import {normalizeHost,findHosts,assess} from './assessment.js';
 import './styles.css';
+import BatchCheck from './BatchCheck.jsx';
 
 const choices = {
   visit:[['yes','Yes — on November 16'],['no','No, I don’t think so'],['unsure','I’m not sure']],
@@ -42,6 +43,7 @@ function App(){
     <button className="textbutton" type="button" onClick={()=>setShowList(!showList)}>{showList?'Hide':'Browse'} all listed organizations <ChevronDown size={16}/></button>
     {showList&&<div className="alllist">{organizations.map(o=><button type="button" key={o.id} onClick={()=>{setQuery(o.name);setSelected('');setShowList(false)}}><b>{o.name}</b><small>{o.domains.join(', ')}</small></button>)}</div>}
     <button className="primary" type="button" disabled={!valid||!selected&&match.kind==='invalid'} onClick={()=>setStep(1)}>Continue <ArrowRight size={18}/></button>
+    <BatchCheck organizations={organizations} onAssess={host=>{reset();setSelected(host);setQuery(host);setStep(1)}} />
     <div className="helper"><button type="button" onClick={()=>setShowHelp(!showHelp)}><Smartphone size={17}/> Not sure? Find your phone's browser history <ChevronDown size={15}/></button>
     {showHelp&&<div className="helppanel"><label htmlFor="browser">Select your browser</label><select id="browser" value={browser} onChange={e=>setBrowser(e.target.value)}>{Object.entries(browserHelp).map(([id,b])=><option value={id} key={id}>{b.name}</option>)}</select><ol>{browserHelp[browser].steps.map(s=><li key={s}>{s}</li>)}</ol><p>Private or deleted history may not be available. We never access your history automatically.</p></div>}</div></div>}
   {step===1&&<div className="stepbody" aria-live="polite"><span className="sectionmark">STEP 02</span><h2>Tell us about your visit</h2><p className="muted">Answer based on what you remember. It's okay to be unsure.</p><div className="selectedsite"><Globe2 size={18}/><div><small>WEBSITE CHECKED</small><b>{match.host||input}</b></div><span className={'matchpill '+(match.kind==='exact'?'yes':'')}>{match.kind==='exact'?'Listed hostname':'Not confirmed'}</span></div>
