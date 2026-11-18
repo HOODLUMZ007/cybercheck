@@ -1,0 +1,5 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
+const app=fs.readFileSync(new URL('../src/main.jsx',import.meta.url),'utf8');
+test('source uses one fixed same-origin data request',()=>{assert.equal((app.match(/fetch\(/g)||[]).length,1);assert.ok(app.includes("fetch('/data/incident.json'"));assert.doesNotMatch(app,/localStorage|sessionStorage|document\.cookie|sendBeacon|XMLHttpRequest|dangerouslySetInnerHTML/)});
+test('download uses normalized hostname, not sensitive URL paths',()=>assert.ok(app.includes('Website: ${match.host||"Invalid hostname"}')));
+test('restrictive deployment headers are included in build',()=>{const h=fs.readFileSync(new URL('../public/_headers',import.meta.url),'utf8');for(const rule of ["script-src 'self'","connect-src 'self'","form-action 'none'","frame-ancestors 'none'",'nosniff','no-referrer','Strict-Transport-Security'])assert.ok(h.includes(rule));assert.equal(fs.readFileSync(new URL('../dist/_headers',import.meta.url),'utf8'),h)});

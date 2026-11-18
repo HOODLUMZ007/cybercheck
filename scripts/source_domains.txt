@@ -1,0 +1,179 @@
+# Transcribed from Report URI, published 2026-11-16. Pipe-separated sector|organization|domains (comma-separated).
+Banking & Finance|Paychex|www.paychex.com
+Banking & Finance|HSBC US|www.us.hsbc.com
+Banking & Finance|Equifax|equifax.com,my.equifax.com,signin.my.equifax.com,www.equifax.com
+Banking & Finance|SmartAsset|smartasset.com
+Banking & Finance|HSBC Hong Kong|www.hsbc.com.hk
+Banking & Finance|ABN AMRO|www.abnamro.de,www.abnamro.nl,www.abnamromeespierson.be
+Banking & Finance|TaxAct|www.taxact.com
+Banking & Finance|HSBC Mexico|www.hsbc.com.mx
+Banking & Finance|HSBC Singapore|www.insurance.hsbc.com.sg
+Banking & Finance|NetCredit|www.netcredit.com
+Banking & Finance|Associated Bank|www.associatedbank.com
+Banking & Finance|S-Pankki|www.s-pankki.fi
+Banking & Finance|Equifax Canada|my.equifax.ca,www.equifax.ca
+Banking & Finance|Equifax UK|equifax.co.uk
+Banking & Finance|The Work Number (Equifax)|theworknumber.com
+Banking & Finance|Funding Circle|fundingcircle.com,www.fundingcircle.com
+Banking & Finance|HSBC Australia|www.hsbc.com.au
+Banking & Finance|CashNetUSA|www.cashnetusa.com
+Banking & Finance|OnDeck|www.ondeck.com
+Banking & Finance|ICS Cards|www.icscards.nl
+Banking & Finance|HSBC UAE|www.hsbc.ae
+Banking & Finance|HSBC Malaysia|www.hsbc.com.my,www.hsbcamanah.com.my
+Banking & Finance|Rest Super|rest.com.au
+Banking & Finance|HSBC Taiwan|www.hsbc.com.tw
+Banking & Finance|HSBC Vietnam|www.hsbc.com.vn
+Banking & Finance|HSBC Egypt|www.hsbc.com.eg
+Banking & Finance|HSBC Philippines|www.hsbc.com.ph
+Banking & Finance|SmartAdvisor Match (SmartAsset)|smartadvisormatch.com
+Banking & Finance|Compare Club|compareclub.com.au
+Banking & Finance|ABN AMRO Lease|abnamrolease.com
+Banking & Finance|Energy Scout|energyscout.com.au
+Banking & Finance|Hang Seng Investment|www.hangsenginvestment.com
+Technology & SaaS|Zoom|www.zoom.com,zoom.com,zoom.us
+Technology & SaaS|Bitly|arcg.is,bit.ly,bitly.com
+Technology & SaaS|Salesforce|evergage.com,exacttarget.com,pardot.com,salesforce-scrt.com
+Technology & SaaS|GitLab|about.gitlab.com,gitlab.com
+Technology & SaaS|Optimizely|home.optimizely.com,login.optimizely.com,optimizely.com,prep.login.optimizely.com
+Technology & SaaS|Mixpanel|mixpanel.com
+Technology & SaaS|Typeform|typeform.com,www.typeform.com
+Technology & SaaS|InMotion Hosting|www.inmotionhosting.com
+Technology & SaaS|Wasabi|wasabi.com,wasabisys.com
+Technology & SaaS|Perforce / Zend / Puppet|www.perforce.com,www.puppet.com,zend.com
+Technology & SaaS|Tableau|www.tableau.com
+Technology & SaaS|Hootsuite|hootsuite.com,www.hootsuite.com
+Technology & SaaS|Smartsheet|de.smartsheet.com,es.smartsheet.com,fr.smartsheet.com,help.smartsheet.com
+Technology & SaaS|MuleSoft|mulesoft.com,www.mulesoft.com
+Technology & SaaS|Thales / Imperva|community-cybersec.thalesgroup.com,imperva.com
+Technology & SaaS|Tricentis|www.tricentis.com
+Technology & SaaS|Web Hosting Hub|www.webhostinghub.com
+Technology & SaaS|QR Code Generator|login.qr-code-generator.com,www.qr-code-generator.com
+Technology & SaaS|ServiceChannel|preview.servicechannel.com,servicechannel.com,servicechannel.us
+Technology & SaaS|Brandfolder|brandfolder.com
+Technology & SaaS|Intelex|www.intelex.com
+Technology & SaaS|Enverus|www.enverus.com
+Technology & SaaS|Accruent|www.accruent.com
+Retail & Fashion|IKEA|client.home-design.ikea.com
+Retail & Fashion|ASOS|asos.com
+Retail & Fashion|Mattel|creations.mattel.com
+Retail & Fashion|American Eagle|www.ae.com
+Retail & Fashion|Scheels|scheels.com,www.scheels.com
+Retail & Fashion|Ariat|www.ariat.com
+Retail & Fashion|American Girl|www.americangirl.com
+Retail & Fashion|StackSocial|www.stacksocial.com
+Retail & Fashion|Crocs India|www.crocs.in
+Retail & Fashion|Levi's Japan|levi.jp
+Retail & Fashion|Todd Snyder|www.toddsnyder.com
+Retail & Fashion|Levi's Indonesia|levi.co.id
+Retail & Fashion|Just Russel|app.brt-4076-credits-in-order-summary.justrussel.de,app.rph-487-customer-can-switch-their-pet-to.justrussel.be,app.rph-487-customer-can-switch-their-pet-to.justrussel.com,app.rph-487-customer-can-switch-their-pet-to.justrussel.fr
+Retail & Fashion|Loloi Rugs|www.loloirugs.com
+Retail & Fashion|Levi's Australia|levis.com.au
+Retail & Fashion|Levi's Malaysia|levi.com.my
+Retail & Fashion|Levi's Philippines|levi.com.ph
+Retail & Fashion|Levi's Singapore|levi.com.sg
+Retail & Fashion|Levi's Korea|levi.co.kr
+Retail & Fashion|Levi's New Zealand|levis.co.nz
+Streaming & Entertainment|Peacock|peacocktv.com,www.peacocktv.com
+Streaming & Entertainment|D&D Beyond|dndbeyond.com,www.dndbeyond.com
+Streaming & Entertainment|Wizards of the Coast|secretlair.wizards.com
+Streaming & Entertainment|NOW TV|nowtv.com,www.nowtv.com
+Streaming & Entertainment|Zattoo|zattoo.com
+Streaming & Entertainment|Crave|www.crave.ca
+Streaming & Entertainment|Starz|www.starz.com
+Streaming & Entertainment|SkyShowtime|www.skyshowtime.com
+Streaming & Entertainment|Bravo|www.bravotv.com
+Streaming & Entertainment|SeaWorld|buschgardens.com,seaworld.com
+Streaming & Entertainment|WOW (Sky Deutschland)|www.wowtv.de
+Streaming & Entertainment|NOW Italia|www.nowtv.it
+News & Media|CNN|cnn.com,edition.cnn.com,us.cnn.com,www.cnn.com
+News & Media|BBC|www.bbc.co.uk,www.bbc.com
+News & Media|Fox News|www.foxnews.com
+News & Media|NPR|legacy-s1.npr.org,legacy.stage.npr.org,media.stage.npr.org,s-s1-origin.npr.org
+News & Media|CTV News|www.ctvnews.ca
+News & Media|Fox Sports|foxsports.com
+News & Media|BNN Bloomberg / CP24|www.bnnbloomberg.ca,www.cp24.com
+News & Media|TSN|www.tsn.ca
+News & Media|Top Gear|www.topgear.com
+News & Media|BBC Earth|www.bbcearth.com
+Airlines & Travel|Alaska Airlines / Hawaiian Airlines|www.alaskaair.com,www.hawaiianairlines.com
+Airlines & Travel|Transavia|www.transavia.com
+Airlines & Travel|Air France-KLM|liberia.klm.com,russia.airfrance.com,www.klm.be,wwws.airfrance.fr
+Airlines & Travel|KLM Netherlands|deal.klm.nl
+Airlines & Travel|Trafalgar|www.trafalgar.com
+Airlines & Travel|Contiki|www.contiki.com
+Airlines & Travel|Insight Vacations|www.insightvacations.com
+Airlines & Travel|The Travel Corporation|uat.costco.ttc.com
+Airlines & Travel|Costsaver|www.costsavertour.com
+Healthcare & Pharma|Invisalign|invisalign.com,www.invisalign.com
+Healthcare & Pharma|Takeda|www.takeda.com
+Healthcare & Pharma|Covetrus|covetrus.com
+Healthcare & Pharma|iTero (Align)|itero.com
+Healthcare & Pharma|Covetrus Pharmacy|eastfieldveterinary.covetruspharmacy.com
+Healthcare & Pharma|myCovetrus|www.mycovetrus.com
+Healthcare & Pharma|RaySafe (Fluke)|www.raysafe.com
+Healthcare & Pharma|Takeda Oncology|www.takedaoncology.com
+Industrial & Manufacturing|Fluke|fluke.com
+Industrial & Manufacturing|eMaint (Fluke)|www.emaint.com
+Industrial & Manufacturing|Fluke Networks|www.flukenetworks.com
+Industrial & Manufacturing|Vaillant Germany|www.vaillant.de
+Industrial & Manufacturing|Fluke Process Instruments|www.flukeprocessinstruments.com
+Industrial & Manufacturing|Fluke Biomedical|www.flukebiomedical.com
+Industrial & Manufacturing|Landauer|www.landauer.com
+Industrial & Manufacturing|Vaillant Spain|www.vaillant.es
+Telecoms|Virgin Media|virginmedia.com,www.virginmedia.com
+Telecoms|Virgin Media O2|virginmediao2.co.uk,www.virginmediao2.co.uk
+Telecoms|Vodafone Australia|www.vodafone.com.au
+Telecoms|O2|o2.co.uk,www.o2.co.uk
+Telecoms|TPG Telecom|www.tpg.com.au
+Telecoms|Mint Mobile|www.mintmobile.com
+Telecoms|TalkTalk|talktalk.co.uk,www.talktalk.co.uk
+Crypto & Trading|Ledger|ledger.com,www.ledger.com
+Crypto & Trading|IG|www.ig.com
+Crypto & Trading|OANDA / Coinpass|oanda.com,www.oanda.com
+Crypto & Trading|interactive investor|www.ii.co.uk
+Crypto & Trading|TMS Brokers|www.tms.pl
+Crypto & Trading|Betashares|www.betashares.com.au
+Insurance|Asurion / uBreakiFix|www.asurion.com,www.ubreakifix.com
+Insurance|Mutual of Omaha|moocat.mutualofomaha.com,www.mutualofomaha.com
+Insurance|Admiral|www.admiral.com
+Insurance|Securian Financial|www.securian.com
+Insurance|eRenterPlan|erenterplan.com
+Insurance|AKA (Danish unemployment fund)|www.aka.dk
+Property & Real Estate|Buildium (managebuilding.com)|headwayassetsllc.managebuilding.com
+Property & Real Estate|Loft Living apartments|theapartmentsatkeltonstation.loftliving.com
+Property & Real Estate|Buildium|www.buildium.com
+Property & Real Estate|HireAHelper|qa2.hireahelper.com
+Property & Real Estate|Flytte.no (and sister comparison sites)|flytte.no
+Property & Real Estate|MovingPlace|unionplus-qa4.movingplace.com
+Food & Hospitality|Restaurant ordering sites (order.online)|order.online
+Food & Hospitality|Heineken|www.heineken.com
+Food & Hospitality|Home Chef|www.homechef.com
+Food & Hospitality|Starbucks Canada|www.starbucks.ca
+Food & Hospitality|Cinnabon|www.cinnabon.com
+Home & Smart Home|Resideo|resideo.com,www.resideo.com
+Home & Smart Home|Honeywell Home|www.honeywellhome.com
+Home & Smart Home|myQ (Chamberlain)|www.myq.com
+Home & Smart Home|Chamberlain|www.chamberlain.com
+Home & Smart Home|First Alert|www.firstalert.com
+Nonprofit & Civic|Change.org|www.change.org
+Nonprofit & Civic|ASPCA|aspca.org,dev-cloudflare.aspca.org,secure.aspca.org,www.aspca.org
+Nonprofit & Civic|UNICEF USA|www.unicefusa.org
+Nonprofit & Civic|DonorsChoose|www.donorschoose.org
+Gambling|Betsson|betsson.bet.ar,www.betsson.co,www.betsson.com,www.betsson1002.com
+Gambling|PokerStars|www.pokerstars.com,www.pokerstars.de,www.pokerstars.fr,www.pokerstars.pt
+Gambling|tombola|tombola.co.uk,tombolaarcade.co.uk,www.tombola.co.uk,www.tombola.it
+Gambling|Betfred|www.betfred.com
+Professional Services|Freshfields|www.freshfields.com
+Professional Services|CohnReznick|www.cohnreznick.com
+Professional Services|Baringa|www.baringa.com
+Professional Services|Cro Metrics|crometrics.com
+Logistics & Shipping|ShipStation / ShipEngine|shipstation.com,www.shipstation.com
+Logistics & Shipping|Stamps.com|www.stamps.com
+Logistics & Shipping|ShipEngine|www.shipengine.com
+Automotive|Lucid Motors|lucidmotors.com
+Automotive|O'Brien Glass|www.obrien.com.au
+Automotive|Chevrolet dealer network (Bill Rapp and others)|www.billrappchevy.com
+Education|Walden University|www.waldenu.edu
+Education|Perlego|www.perlego.com
+Education|Chamberlain University|www.chamberlain.edu
