@@ -1,16 +1,16 @@
 # CyberCheck deployment
 
-Prepared November 18, 2026. Publication and account changes await James's authorization.
+Initial deployment was configured on November 18, 2026.
 
-## Proposed deployment
+## Production configuration
 
-- GitHub repository: `cybercheck` in the authorized personal account. Proposed visibility: public.
-- Cloudflare Pages project: `cybercheck` (availability to be checked).
+- GitHub repository: [HOODLUMZ007/cybercheck](https://github.com/HOODLUMZ007/cybercheck) (public).
+- Cloudflare Pages project: `cybercheck`. Production URL: https://cybercheck-9r4.pages.dev/.
 - Git production branch: `main`; project root: repository root.
 - Build command: `npm run build`; output: `dist`; Node: `24`.
 - Use Pages Free and its included HTTPS `pages.dev` hostname. No custom domain purchase, Workers functions, database, analytics, or paid services.
 - GitHub integration authorization is required. Grant access to this repository only where supported.
-- Both repository and project URLs remain pending; no live website exists from this release yet.
+- After changing the build settings, redeploy `main` and verify that the homepage loads built assets and `/data/incident.json` returns JSON.
 
 ## Reproduce locally
 
